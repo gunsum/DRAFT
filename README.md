@@ -1,2 +1,3 @@
 # DRAFT
-I am a mehterân
+Teaching HTML stuff practices
+
